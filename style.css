@@ -1,0 +1,103 @@
+
+    body{ 
+        background-color: rgb(134, 186, 235);
+        background-image: url("pata_fundo.png"); 
+     }
+         #content{ 
+          background-color: white;
+            padding:20px;
+            position: center;
+            top: 30%;
+            border-radius: 20px;
+            width: 80%;
+            height: 90%;
+            margin-top: 2%;
+            margin-left: 9%;
+            text-align: center;
+            font-size: 18px;
+     } 
+
+     .logo{
+            margin-left: auto;
+            max-width: 250%;
+        }
+
+    .name{
+      margin-top: 7%;
+      margin-left: -80%;
+      border-radius: 25px;
+      border-color: rgb(134, 186, 235);
+      border-style: double;
+      width: 120%;
+      height: 50%;
+      
+    }
+
+    .name1{
+      margin-top: 7%;
+      margin-left: 75%;
+      border-radius: 25px;
+      border-color: rgb(134, 186, 235);
+      border-style: double;
+      width: 120%;
+      height: 50%;
+      
+    }
+
+     #gridCheck{
+      font-family: Bahnschrift Light;
+      font-size: 20px;
+      width: 12%;
+      height: 12%;
+      margin-left: -145%;
+    }
+
+    .check{
+      font-family: Bahnschrift Light;
+      font-size: 20px;
+    }
+
+    form{ 
+        margin-left: 270px; 
+        font-family: arial; 
+        line-height:40px; 
+        font-weight: bold; 
+        width:500px; 
+        height:130px;      
+    } 
+
+    Button{ 
+      width: 40%;
+      height: 50%;
+      background: #ED7E32;
+      border-radius: 25px;
+      border: none;
+      font-family: Bahnschrift Light;
+      font-size: 20px;
+      color: #ffffff; 
+      margin-left: 43%;
+      margin-top: 5%;
+    } 
+
+    .enter{
+            font-family: Bahnschrift Light;
+            font-size: 25px;
+            color: #ffffff;
+            text-decoration: none;
+            margin-left: auto;
+        }
+
+        input{
+          font-family: Bahnschrift Light;
+          font-size: 20px;
+        }
+
+    .blocoesq{
+      margin-top: 10%;
+      
+    }
+
+    .blocodir{
+      margin-top: -60%;
+    }
+
